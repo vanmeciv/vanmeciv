@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-
 - [Features](#features)
 - [Contributing](#contributing)
 - [Team](#team)
@@ -28,6 +26,7 @@ Here are some ideas to get you started:
 -->
 
 ## Table of Contents
+- [Portfolio](#portfolio)
 - [Support](#support)
 - [License](#license)
 
