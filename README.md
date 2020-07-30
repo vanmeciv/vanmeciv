@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Support
 
-Reach out to me at one of the following places!
+Contact me!
 
 - Website at <a href="https://geospatial.is" target="_blank">`geospatial.is`</a>
 - LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`Isaac Van Mechelen`</a>
