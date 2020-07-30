@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 - Copyright 2020 © <a href="https://geospatial.is" target="_blank">Isaac Van Mechelen</a>.
