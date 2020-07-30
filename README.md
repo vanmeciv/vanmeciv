@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Recordit GIF](http://g.recordit.co/zd10xpz2qI.gif)
+
 <!--
 **vanmeciv/vanmeciv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
