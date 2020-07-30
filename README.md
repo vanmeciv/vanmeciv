@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 Reference-style: 
 ![alt text][li_logo]
 
-[li_logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[li_logo]: https://github.com/vanmeciv/vanmeciv/blob/master/LI-In-Bug.png?raw=true "LinkedIn"
 
 
 ## License
