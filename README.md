@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+- Website at <a href="https://geospatial.is" target="_blank">`geospatial.is`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`Isaac Van Mechelen`</a>
 
 ---
 
