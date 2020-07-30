@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ---
 ## Portfolio
-- Portfolio <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repository</a>
+- <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repo</a>
 
 ---
 ## MSGT Capstone
-- MSGT <a href="https://github.com/vanmeciv/icerinks" target="_blank">Capstone</a> 
+- <a href="https://github.com/vanmeciv/icerinks" target="_blank">Repo</a> 
 
 ---
 ## Support
