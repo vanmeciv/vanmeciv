@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 - [License](#license)
 -->
 
+
+Reference-style: 
+![alt text][li_logo]
+
+[li_logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
 ## License
 
 - Copyright 2020 © <a href="https://geospatial.is" target="_blank">Isaac Van Mechelen</a>.
