@@ -29,12 +29,6 @@ Here are some ideas to get you started:
 -->
 
 
-Reference-style: 
-![alt text][li_logo]
-
-[li_logo]: https://github.com/vanmeciv/vanmeciv/blob/master/LI-In-Bug.png?raw=true "LinkedIn"
-
-
 ## License
 
 - Copyright 2020 © <a href="https://geospatial.is" target="_blank">Isaac Van Mechelen</a>.
