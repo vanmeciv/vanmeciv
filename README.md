@@ -52,4 +52,4 @@ Contact me!
 
 ## License
 
-- Copyright 2020 © <a href="https://geospatial.is" target="_blank">Isaac Van Mechelen</a>.
+- Copyright 2020 © <a href="https://geospatial.is" target="_blank">Isaac Van Mechelen</a>
