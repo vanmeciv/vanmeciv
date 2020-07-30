@@ -37,8 +37,15 @@ Here are some ideas to get you started:
 
 Contact me!
 
+
+Reference-style: 
+![alt text][linkedIn_logo]
+
+- LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`Isaac Van Mechelen`</a>[linkedIn_logo] https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LinkedIn"
+
+
 - Website at <a href="https://geospatial.is" target="_blank">`geospatial.is`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`Isaac Van Mechelen`</a>
+
 
 ---
 
