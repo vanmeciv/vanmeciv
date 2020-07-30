@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 ## Portfolio
-- Portfolio Repo at <a href="https://github.com/vanmeciv/Portfolio" target="_blank"></a>
+- Portfolio <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repository</a>
 
 ---
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 Contact me!
 
-- LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`Isaac Van Mechelen`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">Isaac Van Mechelen</a>
 - Website at <a href="https://geospatial.is" target="_blank">`geospatial.is`</a>
 
 
