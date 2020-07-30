@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ## Table of Contents
 - [Portfolio](#portfolio)
+- [MSGT Capstone](#capstone20)
 - [Support](#support)
 - [License](#license)
 
@@ -35,7 +36,10 @@ Here are some ideas to get you started:
 - Portfolio <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repository</a>
 
 ---
+## MSGT Capstone
+- MSGT <a href="https://github.com/vanmeciv/icerinks" target="_blank">Capstone</a> 
 
+---
 ## Support
 
 Contact me!
