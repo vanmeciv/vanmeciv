@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 Contact me!
 
-- <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">'LinkedIn'</a>
+- <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank">`LinkedIn`</a>
 - Website at <a href="https://geospatial.is" target="_blank">`geospatial.is`</a>
 
 
