@@ -25,28 +25,26 @@ Here are some ideas to get you started:
 
 -->
 
-## Table of Contents
+## Table of Contents :scroll:
 - [Portfolio](#portfolio)
 - [Capstone](#capstone20)
-- [Support](#support)
+- [Contact](#contact)
 - [Playlist](#playlist)
 - [License](#license)
 
 ---
-## Portfolio
+## Portfolio :page_facing_up:
 - <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repo</a>
 
 ---
-## Capstone
+## Capstone :computer:
 - <a href="https://github.com/vanmeciv/icerinks" target="_blank">M.Sc. Geospatial Technologies</a> 
 
 ---
-# Playlist
+## Playlist :headphones:
 [![Spotify](https://novatorem.vanmeciv.vercel.app/api/spotify-playing)](https://open.spotify.com/user/124407433)<br>
 ---
-## Support
-
-Contact me!
+## Contact :speech_balloon:
 
 <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank" title="My LinkedIn Profile"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://geospatial.is" target="_blank" title="My Website"><img height="32" width="32" src="https://raw.githubusercontent.com/vanmeciv/Portfolio/master/img/favicon/favicon-32x32.png" /></a>
