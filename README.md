@@ -33,10 +33,6 @@ Here are some ideas to get you started:
 - [License](#license)
 
 ---
-## Portfolio :page_facing_up:
-- <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Repo</a>
-
----
 ## Capstone :computer:
 - <a href="https://github.com/vanmeciv/icerinks" target="_blank">M.Sc. Geospatial Technologies</a> 
 
