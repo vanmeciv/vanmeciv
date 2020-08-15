@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 -->
 
 ## Table of Contents :scroll:
-- [Portfolio](#portfolio)
 - [Capstone](#capstone20)
 - [Contact](#contact)
 - [Playlist](#playlist)
