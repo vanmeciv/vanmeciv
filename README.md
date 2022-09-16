@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 ## Capstone :computer:
-- <a href="https://github.com/vanmeciv/Portfolio" target="_blank">M.Sc. Geospatial Technologies</a> 
+- <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Portfolio</a> 
 
 ---
 ## Playlist :headphones:
