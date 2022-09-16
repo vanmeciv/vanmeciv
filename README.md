@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ## Table of Contents :scroll:
 - [Capstone](#capstone20)
-- [Contact](#contact)
 - [Playlist](#playlist)
+- [Contact](#contact)
 - [License](#license)
 
 ---
