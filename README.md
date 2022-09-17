@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 ## Capstone(s) :computer:
-- <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Portfolio</a> 
+- CLICK HERE >> <a href="https://github.com/vanmeciv/Portfolio" target="_blank">Portfolio</a> << CLICK HERE
 
 ---
 ## Playlist :headphones:
