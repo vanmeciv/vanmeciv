@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 ## Capstone(s) :computer:
-- [Portfolio](../../../Portfolio)
+- [Portfolio Repo](../../../Portfolio)
 
 ---
 ## Playlist :headphones:
