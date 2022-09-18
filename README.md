@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 -->
 
 ## Table of Contents 📜
-- [Capstone(s)](#capstone20)
+- [Capstone(s)](#capstone)
+- [Labs](Labs)
 - [Playlist](#playlist)
 - [Contact](#contact)
 - [License](#license)
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 - [Portfolio Repo](../../../Portfolio)
 
 ---
-## Labs(s) 📖
+## Labs 📖
 - [Labs Repo](../../../Labs)
 
 ---
