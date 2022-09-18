@@ -25,21 +25,25 @@ Here are some ideas to get you started:
 
 -->
 
-## Table of Contents :scroll:
+## Table of Contents 📜
 - [Capstone(s)](#capstone20)
 - [Playlist](#playlist)
 - [Contact](#contact)
 - [License](#license)
 
 ---
-## Capstone(s) :computer:
+## Capstone(s) 💻
 - [Portfolio Repo](../../../Portfolio)
 
 ---
-## Playlist :headphones:
+## Labs(s) 📖
+- [Labs Repo](../../../Labs)
+
+---
+## Playlist 🎧
 [![Spotify](https://novatorem.vanmeciv.vercel.app/api/spotify-playing)](https://open.spotify.com/user/124407433)<br>
 ---
-## Contact :speech_balloon:
+## Contact 💬
 
 <a href="https://www.linkedin.com/in/isaac-vanmechelen/" target="_blank" title="My LinkedIn Profile"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://geospatial.is" target="_blank" title="My Website"><img height="32" width="32" src="https://raw.githubusercontent.com/vanmeciv/Portfolio/master/img/favicon/favicon-32x32.png" /></a>
