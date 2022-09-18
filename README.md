@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 
 -->
 
-## Table of Contents 📜
+<!-- ## Table of Contents 📜
 - [Capstone(s)](#capstone)
 - [Labs](Labs)
 - [Playlist](#playlist)
 - [Contact](#contact)
-- [License](#license)
+- [License](#license) -->
 
 ---
 ## Capstone(s) 💻
